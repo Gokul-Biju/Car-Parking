@@ -50,7 +50,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBoHF_WLMreTmd4dT7Mog6JcBBHun3LzyU',
     authDomain: 'car-parking-d26dc.firebaseapp.com',
     projectId: 'car-parking-d26dc',
     storageBucket: 'car-parking-d26dc.firebasestorage.app',
@@ -60,7 +59,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAnE8B62hFb0pIfxvr-PjR6OYj2uMbh79Q',
     appId: '1:818606882352:android:478b5534cb0fafa14fb7f5',
     messagingSenderId: '818606882352',
     projectId: 'car-parking-d26dc',
