@@ -65,7 +65,6 @@ class Payment {
   Future<void> onPayment()async {
     Razorpay razorpay = Razorpay();
     var options = {
-      'key': 'rzp_test_QECw6lqG3ljlZk',
       'amount': price * 100,
       'name': 'Acme Corp.',
       'description': 'Parking Booking',
