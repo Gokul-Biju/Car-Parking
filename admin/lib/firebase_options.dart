@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAnE8B62hFb0pIfxvr-PjR6OYj2uMbh79Q',
+    apiKey:,
     appId: '1:818606882352:android:ac6703b565496d334fb7f5',
     messagingSenderId: '818606882352',
     projectId: 'car-parking-d26dc',
